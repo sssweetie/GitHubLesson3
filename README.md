@@ -49,3 +49,15 @@
 * git branch -d branch_name - delete merged branch
 
 * git branch -D branch_name - force deleting branch
+
+## Remote repository work
+
+**git push** - add your changes to online repository
+
+**git pull** - add changes from online repository to repository on your computer
+
+**git clone link_from_github** - clone repository to your repository on computer
+
+**cd** - change direction
+
+> You need to change direction from your folder to the folder you have just cloned (where repository is located)
