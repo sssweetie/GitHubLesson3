@@ -1,4 +1,11 @@
 # GitHubLesson3
 
-This is our first commit
-We are using text for example
+# Инструкция по отправлению Pull-request в чужой репозиторий
+
+1. Сделать Fork в свой репозиторий
+2. Выполнить git clone себе на компьютер
+3. Что то реализовать в коде, если есть идеи)
+4. Выполнить git add . ,git commit и git push 
+5. Предложить свои изменения в чужой репозиторий, создав Pull-request
+6. Profit! :-)
+
