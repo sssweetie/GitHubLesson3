@@ -1,6 +1,5 @@
 # GitHubLesson3
 
 This is our first commit
-We are using text for example
 
-Изменения в файл Александра
+Add file with instruction for Git and Markdown (+ working with remote repositories)
