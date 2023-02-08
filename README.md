@@ -53,6 +53,7 @@ to add numbered lists, you need to number the items. For example:
 ## Work with "branch"-es
 * **git branch** - show all branches
 * **git checkout <name_branch>** - allow to switch between branches
+* * If you have no any branches, you must to whrite command **git branch <new_name_branch>**
 * ** git merge branch <name_branch> - allow to add changes to current banch from <name_branch>
 
 ### And then ...
