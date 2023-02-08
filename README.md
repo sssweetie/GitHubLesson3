@@ -60,8 +60,20 @@ to add numbered lists, you need to number the items. For example:
 * * **git branch -D <name_branch>** - delete <name_branch> ignoring whether there was a merge or not
 
 ## Works with a remote repository
+
 ### To start...
+* To authorize:
+* * • git config --global user.name "Your_name_only_english_language"
+* * • git config --global user.email your_male@example.com
+
+## Now we start working ...
 * __git clone__ - this command allows you to transfer the remote repository to your computer
-* * if you need to make changes to someone else's repository, then you need to use the **fork** command to make someone else's repository yours, then use the **git clone** command to create a local repository
+* * if you need to make changes to someone else's repository, then you need to use the **fork** command to make someone else's repository yours, then use the **git clone** command to create a local repository 
+* * * [!Warning]: You must create NEW branch for job and working only in them!
 * Then you work with repository by using command (see above)
-* **git pull** - 
+* **git pull** - this command allows you to add information from a remote repository to the current local one, while simultaneously executing the command *merge*
+
+### After working ...
+* **git push** - this command allows you to push changes from the current local repository to a remote one
+* * [!Warning]: You are must to be authorized into the system "Git" and "GitHub" (or other cloud of repository)
+* * * If you work with else's repository, please: commit your changes in branch for push in your "copy-clone" fork, then you allowded to do *pull request*
