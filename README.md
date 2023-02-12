@@ -1,7 +1,8 @@
 # GitHubLesson3
 
-*cd .. - to go back in folders
-*cd name folder - to forward to that folder
+* cd .. - to go back in folders
+
+* cd name folder - to forward to that folder
 
 How to do pull request:
 
